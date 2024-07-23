@@ -5,3 +5,4 @@ bitnami/kafka:latest
 redis:latest
 #支持指定架构
 --platform=linux/aarch64 bitnami/zookeeper:latest
+--platform=linux/aarch64 bitnami/kafka:latest
