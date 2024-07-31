@@ -4,6 +4,7 @@ bitnami/zookeeper:latest
 bitnami/kafka:latest
 redis:latest
 provectuslabs/kafka-ui:latest
+mysql:5.7.44-oracle
 #支持指定架构
 --platform=linux/aarch64 bitnami/zookeeper:latest
 --platform=linux/aarch64 bitnami/kafka:latest
