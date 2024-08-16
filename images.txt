@@ -7,6 +7,7 @@ provectuslabs/kafka-ui:latest
 mysql:5.7.44-oracle
 skywalking.docker.scarf.sh/apache/skywalking-oap-server:10.0.1
 skywalking.docker.scarf.sh/apache/skywalking-ui:10.0.1
+docker.io/apache/skywalking-banyandb:0.6.0
 #支持指定架构
 --platform=linux/aarch64 bitnami/zookeeper:latest
 --platform=linux/aarch64 bitnami/kafka:latest
