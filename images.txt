@@ -11,6 +11,10 @@ docker.io/apache/skywalking-banyandb:0.6.0
 wurstmeister/kafka:2.13-2.8.1
 curlimages/curl
 dbeaver/cloudbeaver
+quay.io/prometheus/node-exporter:latest
+oliver006/redis_exporter
+danielqsj/kafka-exporter
+prom/mysqld-exporter
 #支持指定架构
 --platform=linux/aarch64 bitnami/zookeeper:latest
 --platform=linux/aarch64 bitnami/kafka:latest
