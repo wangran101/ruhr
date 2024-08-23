@@ -15,7 +15,7 @@ quay.io/prometheus/node-exporter:latest
 oliver006/redis_exporter
 danielqsj/kafka-exporter
 prom/mysqld-exporter
-apache/shenyu-admin:3.9.13-alpine
+apache/shenyu-admin:2.5.0
 #支持指定架构
 --platform=linux/aarch64 bitnami/zookeeper:latest
 --platform=linux/aarch64 bitnami/kafka:latest
