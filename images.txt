@@ -17,7 +17,7 @@ danielqsj/kafka-exporter
 prom/mysqld-exporter
 apache/shenyu-admin:2.5.0
 nginx:stable
-localai/localai:v2.10.0-cublas-cuda12-ffmpeg
+localai/localai:v2.15.0-cublas-cuda12-ffmpeg
 #支持指定架构
 --platform=linux/aarch64 bitnami/zookeeper:latest
 --platform=linux/aarch64 bitnami/kafka:latest
