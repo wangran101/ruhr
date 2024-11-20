@@ -1,7 +1,2 @@
-#支持指定架构
-#--platform=linux/arm64
-bitnami/zookeeper:latest
-bitnami/kafka:latest
 redis:latest
-#--platform=linux/aarch64 bitnami/zookeeper:latest
-#--platform=linux/aarch64 bitnami/kafka:latest
+
