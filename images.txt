@@ -1,1 +1,3 @@
-bitnami/kafka:3.9.0
+langgenius/dify-api:0.15.2
+langgenius/dify-sandbox:0.2.10
+langgenius/dify-web:0.15.2
