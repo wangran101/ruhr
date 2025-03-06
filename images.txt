@@ -1,4 +1,2 @@
-langgenius/dify-sandbox:0.2.10
-langgenius/dify-web:1.0.0
-langgenius/dify-api:1.0.0
-langgenius/dify-plugin-daemon:0.0.3-local
+zookeeper:3.9.3
+redis:6.2.17
