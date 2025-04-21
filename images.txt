@@ -1,1 +1,1 @@
-zookeeper:3.9.3  --platform=linux/arm64/v8
+zookeeper@sha256:dd9a1a8f5773b0b91727a4e45072a59f2566b250bb65fc77493a588333945550
