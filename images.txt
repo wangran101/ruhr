@@ -1,1 +1,2 @@
-zookeeper:3.9.3
+zookeeper:3.9.3 
+--platform=linux/arm64/v8
