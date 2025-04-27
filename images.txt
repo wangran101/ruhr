@@ -1,1 +1,1 @@
-docker.m.daocloud.io/1340691923/elastic_view:latest
+1340691923/elastic_view
