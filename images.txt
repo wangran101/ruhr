@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:24.12-py3@sha256:4ff5b72c183f056b7dbb173309534b4d2d9c000cda963259b38f75f87babbb87
+docker.io/library/python:3.10-slim
