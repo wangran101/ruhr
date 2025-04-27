@@ -1,1 +1,1 @@
-centos:7
+docker.m.daocloud.io/1340691923/elastic_view:latest
