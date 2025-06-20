@@ -1,1 +1,1 @@
-moby/buildkit:buildx-stable-1
+zookeeper@sha256:9972a5f3497daa4e3083d8004a67d6b92d12016ef9369a304cbd58f843b361c2
