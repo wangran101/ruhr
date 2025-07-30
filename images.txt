@@ -1,1 +1,2 @@
-sonarqube:8.9.2-community
+xuxueli/xxl-job-admin
+mysql:8.0.39
