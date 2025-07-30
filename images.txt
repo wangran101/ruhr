@@ -1,2 +1,1 @@
 xuxueli/xxl-job-admin
-mysql:8.0.39
