@@ -1,1 +1,1 @@
-redis:7.4.5-alpine3.21
+bitnami/kafka:4.0.0
