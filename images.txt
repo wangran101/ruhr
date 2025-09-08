@@ -1,2 +1,2 @@
-docker pull zookeeper:latest
+zookeeper:latest
 --platform=linux/arm64/v8
