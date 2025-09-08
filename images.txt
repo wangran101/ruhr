@@ -1,1 +1,2 @@
-1340691923/elastic_view:0.0.36
+docker pull zookeeper:latest
+--platform=linux/arm64/v8
