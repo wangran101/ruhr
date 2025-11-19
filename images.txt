@@ -1,1 +1,1 @@
-hashicorp/consul-k8s-control-plane:1.4.0
+redis:7.4.7
