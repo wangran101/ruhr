@@ -1,1 +1,1 @@
-nginx:latest
+ubuntu/squid:latest
