@@ -1,1 +1,5 @@
-redis:7.4.7
+langgenius/dify-api:1.11.3
+redis:6-alpine
+postgres:15-alpine
+semitechnologies/weaviate:1.27.0
+nginx:latest
