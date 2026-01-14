@@ -1,5 +1,4 @@
-langgenius/dify-api:1.11.3
-redis:6-alpine
-postgres:15-alpine
-semitechnologies/weaviate:1.27.0
-nginx:latest
+ubuntu/squid:latest
+langgenius/dify-web:1.11.3
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.5.2-local
