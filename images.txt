@@ -1,1 +1,1 @@
---platform=arm64  apache/shenyu-admin:2.7.0.3
+apache/shenyu-admin:2.7.0.3
