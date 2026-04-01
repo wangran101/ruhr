@@ -1,1 +1,1 @@
-apache/shenyu-admin:2.7.0.3
+minio:RELEASE.2021-09-24T00-24-24Z
