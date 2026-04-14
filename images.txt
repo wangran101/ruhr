@@ -1,3 +1,3 @@
-redis:6-alpine
-langgenius/dify-sandbox:0.2.14
-langgenius/dify-plugin-daemon:0.5.3-local
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.27.0
