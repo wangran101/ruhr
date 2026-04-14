@@ -1,3 +1,1 @@
-ubuntu/squid:latest
-nginx:latest
-semitechnologies/weaviate:1.27.0
+busybox:latest
