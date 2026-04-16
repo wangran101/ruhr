@@ -1,1 +1,1 @@
-busybox:latest
+node:24-alpine
