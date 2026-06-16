@@ -1,1 +1,1 @@
-bitnami/kafka:3.7.1
+--platinum=linux/arm64 wurstmeister/kafka:2.13-2.8.1
