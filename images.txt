@@ -1,1 +1,2 @@
-neo4j:latest
+zookeeper:3.9.5
+apache/kafka:3.8.1
