@@ -1,1 +1,1 @@
-python:3.9.25-slim
+--platform=linux/arm64 minio/minio:RELEASE.2025-04-22T22-12-26Z
