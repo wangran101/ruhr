@@ -1,1 +1,1 @@
---platform=linux/arm64 nacos/nacos-server:v2.5.1
+--platform=linux/arm/v6 apache/shenyu-admin:2.5.0
