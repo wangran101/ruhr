@@ -1,1 +1,1 @@
---platform=linux/arm64 minio/minio:RELEASE.2025-04-22T22-12-26Z
+--platform=linux/arm64 nacos/nacos-server:v2.5.1
