@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 redis:7.4.9
+--platform=linux/arm64/v8 neo4j:latest
