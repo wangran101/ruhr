@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 neo4j:latest
+deluan/navidrome:latest
