@@ -1,1 +1,1 @@
-quay.io/coreos/etcd:v3.5.25-arm64
+--platform=arm64 quay.io/coreos/etcd:v3.5.25
