@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 python:3.11.16-slim
+--platform=linux/arm64/v8 openjdk:21-ea-21-jdk-slim
