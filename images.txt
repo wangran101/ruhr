@@ -1,1 +1,1 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.17.10
+wukongdaily/openwrt-istoreos:amd64-latest
