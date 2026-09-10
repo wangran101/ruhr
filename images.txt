@@ -1,1 +1,5 @@
-prom/prometheus:v2.54.0
+prom/alertmanager:v0.27.0
+prom/node-exporter:v1.8.2
+prom/mysqld-exporter:v0.16.0
+danielqsj/kafka-exporter:v1.8.0
+oliver006/redis_exporter:v1.62.0
